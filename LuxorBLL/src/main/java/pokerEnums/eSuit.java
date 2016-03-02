@@ -4,7 +4,7 @@ public enum eSuit {
 	HEART(1), 
 	SPADES(2), 
 	CLUBS(3),
-	DIAMONDS(4);
+	 DIAMONDS(4);
 
 	private int iSuitNbr;
 
@@ -15,6 +15,7 @@ public enum eSuit {
 	public int getiSuitNbr() {
 		return iSuitNbr;
 	}
+
 	
 
 }
