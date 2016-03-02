@@ -27,6 +27,7 @@ public class Card implements Comparable {
 	public int getiCardNbr() {
 		return iCardNbr;
 	}
+	
 
 	@Override
 	public int compareTo(Object o) {
